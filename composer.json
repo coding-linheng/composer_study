@@ -1,6 +1,7 @@
 {
     "name": "codelin/composer_study",
-    "description": "test",
+    "description": "composer text",
+    "type": "project",
     "license": "MIT",
     "autoload": {
         "psr-4": {
