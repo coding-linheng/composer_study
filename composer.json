@@ -1,5 +1,8 @@
 {
     "name": "codelin/composer_study",
+    "description": "test",
+    "type": "project",
+    "license": "mit",
     "autoload": {
         "psr-4": {
             "Codelin\\ComposerStudy\\": "src/"
