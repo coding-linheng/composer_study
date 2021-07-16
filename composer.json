@@ -1,0 +1,15 @@
+{
+    "name": "codelin/compser_study",
+    "autoload": {
+        "psr-4": {
+            "Codelin\\CompserStudy\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "codelin",
+            "email": "49402937@qq.com"
+        }
+    ],
+    "require": {}
+}
