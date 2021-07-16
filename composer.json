@@ -1,19 +1,18 @@
 {
     "name": "codelin/composer_study",
     "description": "test",
-    "type": "project",
-    "license": "mit",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Codelin\\ComposerStudy\\": "src/"
         }
     },
-    "minimum-stability": "stable",
     "authors": [
         {
             "name": "codelin",
             "email": "49402937@qq.com"
         }
     ],
+    "minimum-stability": "stable",
     "require": {}
 }
