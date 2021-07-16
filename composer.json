@@ -8,6 +8,7 @@
             "Codelin\\ComposerStudy\\": "src/"
         }
     },
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "codelin",
