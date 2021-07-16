@@ -1,8 +1,8 @@
 {
-    "name": "codelin/compser_study",
+    "name": "codelin/composer_study",
     "autoload": {
         "psr-4": {
-            "Codelin\\CompserStudy\\": "src/"
+            "Codelin\\ComposerStudy\\": "src/"
         }
     },
     "authors": [
